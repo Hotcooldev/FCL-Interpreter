@@ -6,3 +6,5 @@ The language, as well as the instruction set, are described in the document [doc
 ## Compiling the project
 
 The project is pure Java and should be compiled without any additional dependencies.
+
+
